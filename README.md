@@ -88,3 +88,48 @@ To clean and process the Hacker News data collected in Task 1 using the Pandas l
 
 ### Conclusion
 Task 2 successfully cleaned the collected Hacker News data using Pandas. A total of 101 cleaned stories were saved in CSV format. This dataset will be used for further analysis in Task 3.
+
+## Task 3 – Data Analysis using Pandas and NumPy
+
+### Objective
+To analyse the cleaned Hacker News data using Pandas and NumPy and identify important trends and patterns.
+
+### File Used
+- Input: `data/trends_clean.csv`
+- Python file: `task3_analysis.py`
+- Output: `data/trends_analysed.csv`
+
+### Libraries Used
+- **Pandas:** To load and analyse the CSV data.
+- **NumPy:** To calculate statistical values.
+
+### Analysis Performed
+1. Loaded the cleaned CSV file.
+2. Displayed the first five rows and dataset shape.
+3. Calculated average score and average comments.
+4. Calculated mean, median, standard deviation, maximum and minimum scores.
+5. Identified the category with the most stories.
+6. Found the story with the highest number of comments.
+
+### Statistical Results
+
+| Analysis | Result |
+|---|---:|
+| Total stories | 101 |
+| Mean score | 158.72 |
+| Median score | 71 |
+| Standard deviation | 354.21 |
+| Maximum score | 3300 |
+| Minimum score | 5 |
+| Most stories category | Technology (25) |
+| Highest comments | 1091 |
+
+### New Columns Added
+- **engagement:** Calculated using `num_comments / (score + 1)`.
+- **is_popular:** Returns True when a story's score is greater than the average score; otherwise False.
+
+### Output
+The analysed dataset was saved successfully as `data/trends_analysed.csv` with 101 rows and 9 columns.
+
+### Conclusion
+Task 3 successfully analysed the cleaned Hacker News dataset using Pandas and NumPy. Statistical values, popular categories and highly commented stories were identified. Two new columns were added for further analysis. The final dataset is ready for Task 4 visualization.
