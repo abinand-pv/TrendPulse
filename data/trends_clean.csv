@@ -1,0 +1,102 @@
+post_id,title,category,score,num_comments,author,collected_at
+50327266,Frontier Airlines Likely Breached,technology,88,17,999900000999,2026-11-02 00:42:16.718967
+50323088,The AI cost of JavaScript frameworks,technology,227,157,luu,2026-11-02 00:42:16.719122
+50320995,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,technology,385,188,guregodevo,2026-11-02 00:42:16.719167
+50310038,Understanding Email Encryption,technology,97,21,nmjenkins,2026-11-02 00:42:16.719341
+50322022,Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024),technology,159,78,hapax_legomena,2026-11-02 00:42:16.719378
+50324371,Domain hacks with unusual Unicode characters (2018),technology,43,37,n_plus_1_acc,2026-11-02 00:42:16.719410
+50325662,"AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",technology,112,54,entryleveljobsc,2026-11-02 00:42:16.719423
+50290480,"No AI, 52 min. Build all Linux Files utils in C by Hand [video]",technology,120,98,surprisetalk,2026-11-02 00:42:16.719604
+50304718,A 1580 Map Shows Why Data Visualization Is Never Neutral,technology,74,11,the-mitr,2026-11-02 00:42:16.719615
+50319358,Anthropic blocks users for anything touching training larger models,technology,434,244,pretext,2026-11-02 00:42:16.719857
+50324533,noyb win: French electronics retailer Fnac Darty fined €7M,technology,57,6,latexr,2026-11-02 00:42:16.719874
+50290652,"AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",technology,208,53,datascientist,2026-11-02 00:42:16.719911
+50321522,"Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",technology,45,10,creack,2026-11-02 00:42:16.719968
+50300683,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,technology,986,549,_chall,2026-11-02 00:42:16.720016
+50302686,Decode kernel panic from QR Code photo,technology,38,15,modinfo,2026-11-02 00:42:16.720026
+50320588,ChatGPT and Codex usage limits merging,technology,207,151,Zariel,2026-11-02 00:42:16.720067
+50314654,Serbia just elected the world's brainiest parliament,technology,888,492,input_sh,2026-11-02 00:42:16.720081
+50320599,AI text watermarking and quality loss,technology,64,13,danielfoster,2026-11-02 00:42:16.720090
+50325107,The question we should all be asking about AI,technology,17,16,heresie-dabord,2026-11-02 00:42:16.720342
+50300902,"Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",technology,63,40,4yk5,2026-11-02 00:42:16.720358
+50296486,We ran AI agent swarms in Minecraft and Mindustry,technology,416,170,sandslash,2026-11-02 00:42:16.720592
+50272479,Sleep framework: A new way for LLMs to retain knowledge in continual learning,technology,262,51,acossta,2026-11-02 00:42:16.720601
+50316531,Malware uses LLMs to rank victims by how much they're worth,technology,253,134,khalidkhair,2026-11-02 00:42:16.720639
+50296730,Building an AI-native engineering org,technology,188,198,sgondala_ycapp,2026-11-02 00:42:16.720704
+50276355,Trapped in the Technologist Factory,technology,74,30,luu,2026-11-02 00:42:16.720873
+50327650,Patrick Stewart taught us what good men do with power,worldnews,129,81,rhaynes,2026-11-02 00:42:16.718699
+50325253,"Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",worldnews,49,23,FabCH,2026-11-02 00:42:16.719189
+50319110,Electrification Could Cut Global Energy Use in Half,worldnews,194,185,toomuchtodo,2026-11-02 00:42:16.720105
+50316117,The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.,worldnews,42,52,bookofjoe,2026-11-02 00:42:16.720273
+50327218,Russia has imposed limits on gasoline sales following attacks on oil refineries,worldnews,11,3,paaloeye,2026-11-02 00:42:16.720448
+50311686,"Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",worldnews,240,76,francisofascii,2026-11-02 00:42:16.721066
+50309647,"Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",worldnews,387,229,apress,2026-11-02 00:42:16.721188
+50291116,Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents,worldnews,77,36,shong0504,2026-11-02 00:42:16.721869
+50294702,Patrick Stewart has died,worldnews,3300,753,j4mie,2026-11-02 00:42:16.722329
+50321462,Smear Campaign Towards GrapheneOS,worldnews,61,14,monneyboi,2026-11-02 00:42:16.722369
+50297089,"A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",worldnews,143,44,simonebrunozzi,2026-11-02 00:42:16.722599
+50324118,A tiny Pacific country rolls out universal basic income,worldnews,92,123,motionlessveloc,2026-11-02 00:42:16.722664
+50286987,"Chained PHP2Shell exploit roots 25 servers, including US Government servers",worldnews,330,165,882542F3884314B,2026-11-02 00:42:16.722923
+50292233,Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic,worldnews,181,19,armcat,2026-11-02 00:42:16.724319
+50304419,Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It,worldnews,306,289,brandonb,2026-11-02 00:42:16.724535
+50321300,"When AI writes almost all code, what happens to software engineering?",worldnews,7,2,rzk,2026-11-02 00:42:16.726203
+50272145,US agency approves Amazon Leo’s $11.5B acquisition of Globalstar,worldnews,240,107,noptd,2026-11-02 00:42:16.726301
+50298738,Show HN: Arken – Passwordless auth middleware using secp256k1 keys,worldnews,13,0,zachbenson817,2026-11-02 00:42:16.726557
+50266701,Expanding our partnership with GSA to bring Claude to all levels of government,worldnews,51,37,matthieu_bl,2026-11-02 00:42:16.726727
+50266046,New Dwarf Planet Candidate in Our Solar System,worldnews,41,5,pppone,2026-11-02 00:42:16.727115
+50296905,"Lighthouses, War and a Puffling",worldnews,12,0,aways,2026-11-02 00:42:16.727154
+50265393,Code-execution flaw in UEFI firmware threatens most servers on planet Earth,worldnews,317,247,DamnInteresting,2026-11-02 00:42:16.727165
+50294507,The importance of communities around software,worldnews,108,122,amcclure,2026-11-02 00:42:16.727175
+50320255,Anthropic takes steps to block Claude from reverse-engineering video games,sports,173,106,firesteelrain,2026-11-02 00:42:16.721358
+50315987,Anthropic's Claude AI blocks video game cloning and reverse-engineering,sports,72,43,gloxkiqcza,2026-11-02 00:42:16.723071
+50295450,A tiny world model running games on a Raspberry Pi Pico 2 W,sports,271,19,airinei,2026-11-02 00:42:16.723414
+50316635,Anthropic orders AI tool Claude to stop remaking video games,sports,29,16,llm_nerd,2026-11-02 00:42:16.725704
+50306776,"Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?",sports,44,27,karakoram,2026-11-02 00:42:16.726225
+50303455,"Show HN: PicoPlayer – A tiny, open-source website for playing quality webgames",sports,12,9,popcar2,2026-11-02 00:42:16.726493
+50273416,Decompiling Games with AI: Virtueel Zoetermeer,sports,33,8,bouk,2026-11-02 00:42:16.726651
+50305320,Show HN: I built a multiplayer game where you're an aerial fighter cat,sports,85,43,pawelwentpawel,2026-11-02 00:42:16.727506
+50274547,"Keep the changelog, avoid the conflicts",sports,9,5,domenkozar,2026-11-02 00:42:16.727985
+50313473,The Beleaguered Chip Sellers Getting Their Revenge on Apple,sports,5,1,shubhamjain,2026-11-02 00:42:16.730402
+50271271,Microsoft and Epic Games Suddenly Agree That AI Is Theft,sports,71,40,tom2026hn,2026-11-02 00:42:16.731241
+50277498,Nintendo's worst nightmare begins as Switch 2 games start running on PC and Mac,sports,28,10,ada-h00k,2026-11-02 00:42:16.731326
+50311045,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,science,159,47,ohjeez,2026-11-02 00:42:16.719484
+50309279,Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems),science,74,18,peter_d_sherman,2026-11-02 00:42:16.719697
+50270651,Astroterm: A Planetarium for Your Terminal,science,245,28,nvmdbljstm,2026-11-02 00:42:16.721132
+50327374,SpaceX Blocked NATO Satellite to Assist Russian Intercept,science,9,1,vrganj,2026-11-02 00:42:16.722512
+50267380,Historical Scientific Instruments,science,54,6,peteforde,2026-11-02 00:42:16.723490
+50319849,"NASA's Voyager 1 Conserves Power, Resolves Brief Communications Pause",science,17,7,Stratoscope,2026-11-02 00:42:16.725070
+50315409,NASA's Voyager 1 mysteriously lost touch with Earth,science,25,12,entryleveljobsc,2026-11-02 00:42:16.725270
+50310055,Show HN: Ultrafast Rust Based Agent Workspace,science,10,24,gpt-7,2026-11-02 00:42:16.725302
+50314611,Neuroscientists reveal method to train people to have lucid dreams,science,29,12,giuliomagnifico,2026-11-02 00:42:16.725958
+50316760,"Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",science,98,74,WesleyGrant782,2026-11-02 00:42:16.725983
+50271521,Study: Schoolwide phone bans show no significant impact on mental health,science,82,76,giuliomagnifico,2026-11-02 00:42:16.726282
+50309591,SpaceX No longer needs NASA,science,38,9,amosj,2026-11-02 00:42:16.726328
+50286738,I Used AI to Fake a Scientific Paper. Here's What Happened,science,48,28,pseudolus,2026-11-02 00:42:16.726403
+50314345,A drop in US births due to smartphone use? These researchers say so,science,14,7,baxtr,2026-11-02 00:42:16.727246
+50291911,Show HN: Witnessory – a signed record of the web's move to post-quantum crypto,science,6,0,parthod0x,2026-11-02 00:42:16.729915
+50316431,How Trump Is Dismantling America's Scientific Research Machine,science,13,1,contemporary343,2026-11-02 00:42:16.730332
+50309607,Intel to buy quantum firm Classiq for about $2.3B,science,8,0,wslh,2026-11-02 00:42:16.730716
+50326821,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",entertainment,362,105,roansh,2026-11-02 00:42:16.718554
+50314508,Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2,entertainment,47,5,kevs3d,2026-11-02 00:42:16.719082
+50290533,Show HN: Point your camera at a landscape to learn about its geology,entertainment,99,27,headsupernova,2026-11-02 00:42:16.719275
+50315782,Show HN: A language model that lives in a boot sector,entertainment,90,6,kerlenton,2026-11-02 00:42:16.720058
+50319169,Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly),entertainment,87,77,tevlon,2026-11-02 00:42:16.720974
+50306442,Show HN: A working Nintendo in ~1GB of Qwen weights,entertainment,291,150,dbreunig,2026-11-02 00:42:16.721559
+50317331,Show HN: A USB-C LTE modem that gives my computer a phone line,entertainment,59,39,abijahkaj,2026-11-02 00:42:16.721773
+50297697,Show HN: I Turned DOOM into a Transformer,entertainment,130,35,falperc,2026-11-02 00:42:16.722546
+50317548,Show HN: Jointter – A daily word puzzle using dots and lines,entertainment,14,25,proy87,2026-11-02 00:42:16.722648
+50305218,Show HN: Sketch Stadium – watch your agent play Pictionary,entertainment,35,11,ericlevine,2026-11-02 00:42:16.722792
+50294506,"Show HN: Auto Dismiss Mac OS ""Allow <app> to find devices on local networks?""",entertainment,154,132,johncassil,2026-11-02 00:42:16.722906
+50276940,MacBook Pro with PROLED XDR Display and Touch,entertainment,621,1091,etothet,2026-11-02 00:42:16.723784
+50266956,An illustrated online book on Hewlett-Packard equipment,entertainment,47,7,sohkamyung,2026-11-02 00:42:16.723857
+50291812,Show HN: I rebuilt Kubernetes for ESP32 microcontrollers,entertainment,53,21,Arterialist,2026-11-02 00:42:16.723888
+50278678,Show HN: A proof-of-concept formalization of the IRS federal tax forms,entertainment,82,13,RGS1811,2026-11-02 00:42:16.724085
+50299004,Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge,entertainment,38,22,lastmjs,2026-11-02 00:42:16.724518
+50318182,Hackers hijack Egypt highway billboard and Malaysian screens to show porn,entertainment,64,88,entryleveljobsc,2026-11-02 00:42:16.724910
+50303832,"Show HN: Fraktur, a DJ mixing app in the browser",entertainment,26,4,janesconference,2026-11-02 00:42:16.724991
+50293115,"Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",entertainment,45,11,rvanderlinden,2026-11-02 00:42:16.725365
+50317153,Show HN: Quit everything to make one website,entertainment,18,2,hellojomp,2026-11-02 00:42:16.726380
+50316090,Is the Music Business Collapsing?,entertainment,17,6,rwmj,2026-11-02 00:42:16.726583
+50307005,"Show HN: Deckdrill – Pimsleur-style audio drills from Anki decks, in your voice",entertainment,6,1,pjacowski,2026-11-02 00:42:16.726864
+50294473,Show HN: Typebook.lol read books by typing the letters only,entertainment,11,12,vegnus,2026-11-02 00:42:16.727454
+50274300,Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days,entertainment,38,3,sharktheone,2026-11-02 00:42:16.727764
