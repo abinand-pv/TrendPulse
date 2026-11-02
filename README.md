@@ -133,3 +133,50 @@ The analysed dataset was saved successfully as `data/trends_analysed.csv` with 1
 
 ### Conclusion
 Task 3 successfully analysed the cleaned Hacker News dataset using Pandas and NumPy. Statistical values, popular categories and highly commented stories were identified. Two new columns were added for further analysis. The final dataset is ready for Task 4 visualization.
+
+## Task 4 – Data Visualization
+
+### Objective
+The objective of Task 4 is to visualize the trending stories collected from Hacker News using Matplotlib.
+
+### Input File
+- `data/trends_analysed.csv`
+
+### Python File
+- `task4_visualization.py`
+
+### Libraries Used
+- Pandas – To load and process CSV data.
+- Matplotlib – To create charts.
+- OS – To create the output folder.
+
+### Visualizations Created
+
+**1. Top 10 Stories by Score**
+- Created a horizontal bar chart.
+- Displayed the top 10 stories based on score.
+- Shortened long story titles for better readability.
+
+**2. Stories per Category**
+- Created a bar chart showing the number of stories in each category.
+- Used different colours for each category.
+
+**3. Score vs Comments**
+- Created a scatter plot to compare story scores and comments.
+- Used different colours to identify popular and non-popular stories.
+- Added a legend.
+
+### Bonus – TrendPulse Dashboard
+Combined all three visualizations into a single dashboard using Matplotlib subplots.
+
+### Output Files
+
+All charts are saved in the `outputs/` folder:
+
+- `chart1_top_stories.png`
+- `chart2_categories.png`
+- `chart3_scatter.png`
+- `dashboard.png`
+
+### Conclusion
+Task 4 was completed successfully using Matplotlib. The visualizations help understand story popularity, category distribution, and the relationship between scores and comments.
